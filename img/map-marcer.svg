@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="24.031" viewBox="0 0 18 24.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7ebb8;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="map-marcer.svg" class="cls-1" d="M1375,46a8.862,8.862,0,0,0-9,8.692c0,5.948,8.05,14.679,8.4,15.048a0.823,0.823,0,0,0,1.2,0c0.35-.369,8.4-9.1,8.4-15.048A8.862,8.862,0,0,0,1375,46Zm0,13.065a4.376,4.376,0,1,1,4.53-4.373A4.457,4.457,0,0,1,1375,59.065Z" transform="translate(-1366 -46)"/>
+</svg>
